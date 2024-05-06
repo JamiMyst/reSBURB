@@ -1,0 +1,9 @@
+// Config Options (accepts true, false)
+debug = false
+speedUp = false
+autoQuit = false
+autoRetry = false
+
+forceSolo = false
+forceMulti = true
+
